@@ -1,4 +1,9 @@
-### Hi there 👋
+### Witam na moim profilu! 👋
+-:book: studiuję na kierunku Informatyka i Systemy Inteligentne na AGH  
+-:round_pushpin: Wieliczka  
+-:computer: Aktualnie zajmuję się projektem "meshi"  
+
+
 
 <!--
 **piotrekg35/piotrekg35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
