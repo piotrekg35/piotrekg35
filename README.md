@@ -2,7 +2,8 @@
 -:book: studiuję na kierunku Informatyka i Systemy Inteligentne na AGH  
 -:round_pushpin: Wieliczka  
 -:computer: Aktualnie zajmuję się projektem "meshi"  
--:page_facing_up: [Moja GitHub Page](https://piotrekg35.github.io/piotrekg35/) 
+-:page_facing_up: [Moja GitHub Page](https://piotrekg35.github.io/piotrekg35/)   
+-:fork_and_knife: [Fork Stylized Neural Painting](https://github.com/piotrekg35/stylized-neural-painting)
 
 
 
